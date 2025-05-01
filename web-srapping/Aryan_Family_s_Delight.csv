@@ -1,0 +1,273 @@
+item_name,price,description,dietery,features,rating
+Soup Meal,215,Serves 1,Veg,[],4.2
+Indian Meal,300,Serves 1,Veg,[],4.4
+Non-Veg Soup Meal,225,Serves 1,Non Veg,[],4.0
+Veg. Deluxe Thali - Veg,400,"(Paneer, Dry Veg, Dal, Rice, 1 Naan, 1 Paratha, Raita, Salad, Sweet)",Veg,[],4.5
+Non Veg Deluxe Thali,450,"(1 Pc. Chk Curry Prep. Kebab/ Tikka, Biryani, Raita, 1 Naan, 1 Paratha, Salad, Sweet)",Veg,[],4.6
+Cream of Tomato Veg,180,Creamy mild tomato flavoured soup 400 ml,Veg,['Best Seller'],4.2
+Hot ' N Sour Soup Veg,175,Hot and spicy soup made with mix vegitables and soy souce. 400 ml,Non Veg,[],4.6
+Lemon Coriander Veg,185,It’s a clear soup made with mix vegitables lemon and corienders leaves 400 ml,Veg,[],5.0
+Manchow Soup Veg,190,"Mix vegitable soup made with garlic ,ginger,soy souce and ground paper. 400 ml",Veg,['Best Seller'],4.7
+Peking Soup Veg,180,"Hot and mild soup made with mix vegitables,mashrooms and soy sauce. 400 ml",Non Veg,[],4.3
+Sweet Corn Soup Veg,175,Creamy soup made with sweet corn kernels . 400 ml,Veg,[],3.8
+Hot ' N Sour Soup Non Veg,185,Hot and spicy soup made with mix vegitables and soy souce and chicken chunks. 400 ml,Veg,[],4.8
+Manchow Soup Non Veg,190,"Mix vegitable soup made with garlic ,ginger,soy souce and ground paper and chicken chunks. 400 ml",Veg,[],4.5
+Peking Soup Non Veg,185,"Hot and mild soup made with mix vegitables,mashrooms and soy souce and chicken chunks. 400 ml",Veg,[],4.7
+Sweet Corn Soup Non Veg,195,Creamy soup made with sweet corn kernels and chicken chunks. 400 ml,Veg,[],4.6
+Paneer Tikka (8pcs),410,8 Pcs Paneer Tikka served with mint sauce,Veg,[],4.7
+Tandoori Aloo,365,Paneer stuffed potato snack that is marinated in tandoori masala. 8 Pcs,Non Veg,[],4.3
+Tandoori Chicken,470,8 pcs Chicken Malai tikka serverd with mint dip and salad,Non Veg,[],4.2
+Chicken Malai Tikka,490,Crispy american corns tossed in salt-pepper and chopped onion capsicum,Non Veg,[],4.5
+Corn Salt & Pepper,390,Serves 1,Non Veg,[],4.9
+Veg Rice Meal,300,Serves 1,Veg,[],4.9
+Veg Chinese Meal,290,Serves 1,Veg,[],4.7
+Soup Meal,215,Serves 1,Non Veg,[],4.2
+Indian Meal,300,Serves 1,Non Veg,[],4.4
+Non-Veg Chinese Meal,320,Serves 1,Veg,[],4.8
+Non-Veg Rice Meal,310,Serves 1,Veg,[],4.4
+Non-Veg Soup Meal,225,Serves 1,Veg,[],4.0
+Non-Veg Indian Meal,320,"(Paneer, Dry Veg, Dal, Rice, 1 Naan, 1 Paratha, Raita, Salad, Sweet)",Veg,['Best Seller'],4.1
+Veg. Deluxe Thali - Veg,400,"(1 Pc. Chk Curry Prep. Kebab/ Tikka, Biryani, Raita, 1 Naan, 1 Paratha, Salad, Sweet)",Veg,[],4.5
+Non Veg Deluxe Thali,450,Creamy mild tomato flavoured soup 400 ml,Veg,[],4.6
+Cream of Tomato Veg,180,Hot and spicy soup made with mix vegitables and soy souce. 400 ml,Veg,['Best Seller'],4.2
+Hot ' N Sour Soup Veg,175,It’s a clear soup made with mix vegitables lemon and corienders leaves 400 ml,Non Veg,[],4.6
+Lemon Coriander Veg,185,"Mix vegitable soup made with garlic ,ginger,soy souce and ground paper. 400 ml",Non Veg,[],5.0
+Manchow Soup Veg,190,"Hot and mild soup made with mix vegitables,mashrooms and soy sauce. 400 ml",Non Veg,[],4.7
+Peking Soup Veg,180,Creamy soup made with sweet corn kernels . 400 ml,Non Veg,[],4.3
+Sweet Corn Soup Veg,175,Hot and spicy soup made with mix vegitables and soy souce and chicken chunks. 400 ml,Veg,[],3.8
+Hot ' N Sour Soup Non Veg,185,"Mix vegitable soup made with garlic ,ginger,soy souce and ground paper and chicken chunks. 400 ml",Veg,['Best Seller'],4.8
+Manchow Soup Non Veg,190,"Hot and mild soup made with mix vegitables,mashrooms and soy souce and chicken chunks. 400 ml",Non Veg,[],4.5
+Peking Soup Non Veg,185,It’s a clear soup made with mix vegitables lemon and corienders leaves and chicken chunks. 400 ml,Veg,[],4.7
+Lemon Coriander Non Veg,195,Creamy soup made with sweet corn kernels and chicken chunks. 400 ml,Veg,[],5.0
+Sweet Corn Soup Non Veg,195,8 Pcs Paneer Tikka served with mint sauce,Veg,[],4.6
+Paneer Tikka (8pcs),410,"Marinating & grilling mushrooms with spices, herbs and yogurt.8 Pcs",Veg,[],4.7
+Stuffed Mushroom,450,"Cottage cheese, in a pickling spice blend.",Veg,[],4.4
+Achari Paneer Tikka,415,8 pcs stuffed paneer tikka serverd with mint dip and tandoori onions,Veg,[],5.0
+Stuffed Paneer Tikka (8pcs),425,Paneer stuffed potato snack that is marinated in tandoori masala. 8 Pcs,Non Veg,[],4.9
+Tandoori Aloo,365,"Delicious starter made using mixed vegetables like carrot, beans, cabbage, peas, capsicum, potatoes and spices. 8 Pcs",Non Veg,[],4.3
+Vegetable Seekh Kebab,340,(2 pcs Paneer Tikka. 2pcs. Paneer Malai Tikka. 2pcs Veg Seekh Kebab. 4pcs Tandoori Mushroom. 2pcs Tandoori Aloo),Non Veg,[],5.0
+Veg.Tandoori Platter,750,"8 Pcs Chicken tikka , in a pickling spice blend.",Non Veg,[],4.4
+Shami Kebabs,360,8 pcs Chicken Malai tikka serverd with mint dip and salad,Non Veg,[],4.2
+Tandoori Chicken,470,8 pcs Chicken tikka serverd with mint dip and salad,Veg,[],5.0
+Achari Chicken Tikka,490,8 pcs deep fried fish serverd with mint dip and salad,Veg,[],4.5
+Chicken Malai Tikka,490,(2pcs. Chk Tikka. 2pcs. Chk Malai Tikka. 2pcs.Tandoori Chk. 2pcs Mutton Seekh. 2pcs Fish Fry),Veg,[],4.9
+Chicken Tikka,480,8 pcs Fish tikka in ajwain flavour serverd with mint dip and salad,Veg,[],3.2
+Fish Amritsari (Dry),570,Crispy american corns tossed in salt-pepper and chopped onion capsicum,Veg,[],3.5
+Non-Veg. Tandoori Platter,890,Dry preparation of deep fried Mushroom chunks cooked with chinese sauces and spices and chillies (15-18 pcs Approx.),Veg,[],4.9
+Ajwain Fish Tikka,570,Fries tossed in honey and spices and topped with sesame seed,Veg,[],4.3
+Corn Salt & Pepper,390,Paneer Cubes stir fried in pan and tossed in chinese sauces and chillies approx-15-16 pcs - serves 2-3,Non Veg,[],4.4
+Crispy Chilli Mushroom,440,Paneer cooked with Fusion of spices approx 15-16 Pcs - serves 2-3,Non Veg,[],4.9
+Honey Chilli Fries,350,"Assorted vegetables stir fried in chinese sauces and spices, wrapped in spring roll sheets and deep fried - 6 pcs",Non Veg,[],3.9
+Pan Fried Paneer Chilli,430,"Assorted vegetables tossed in chinese sauces and spices, wrapped in momo dough - option of fried - 8 pcs",Non Veg,[],4.6
+Paneer 65,400,"Assorted vegetables tossed in chinese sauces and spices, wrapped in momo dough - option of steam - 8 pcs",Non Veg,[],4.9
+Spring Rolls Veg,310,Paneer Cubes stir fried in pan and tossed in chinese sauces and chillies -approx 15-16 Pcs serves 2-3,Non Veg,[],4.4
+Veg Momos(Fried),290,Dry preparation of deep fried veg balls cooked with chinese sauces and spices and chillies (15-18 pcs) 400 ML,Non Veg,[],4.6
+Veg Momos(Steamed),290,Dry preparation of deep fried paneer cubes cooked in tangy chinese sauces and spices with chopped vegetables (15-18 pcs) 400 ML,Non Veg,[],4.5
+Paneer Chilli Dry,435,Dry preparation of deep fried Mushroom chunks cooked in tangy chinese sauces and spices with chopped vegetables (15-18 pcs),Veg,[],4.8
+Veg Manchurian Dry,430,Gravy preparation of deep fried veg balls cooked with chinese sauces and spices and chillies (12-15 pcs),Veg,[],3.5
+Paneer Manchurian Dry,435,Chicken wings tossed in barbeque sauce and other spices - 6 pcs,Veg,[],4.5
+Mushroom Manchurian Dry,450,Chicken cooked with Fusion of spices - serves 2-3,Veg,[],4.6
+Veg Chilli Dry,420,Fried chicken drumette marinated and fried. Tossed in chinese sauces and chopped vegetables - 5 pcs,Veg,[],4.9
+BBQ Chicken Wings,400,"Minced Chicken tossed in chinese sauces and spices, wrapped in momo dough - option of fried - 8 pcs",Veg,[],4.7
+Chicken 65,440,"Minced Chicken tossed in chinese sauces and spices, wrapped in momo dough - option of steam - 8 pcs",Veg,[],4.1
+Chicken Lollipop (5 Pcs),460,"Minced Chicken and vegetables stir fried in chinese sauces and spices, wrapped in spring roll sheets and deep fried - 6 pcs",Veg,[],4.2
+Non Veg Momos(Fried),325,Chicken Cubes stir fried in pan and tossed in chinese sauces and chillies -approx 15-16 Pcs serves 2-3,Veg,[],4.9
+Non Veg Momos(Steamed),325,Dry preparation of deep fried Chicken balls cooked in tangy chinese sauces and spices with chopped vegetables (15-18 pcs) 400 ML,Veg,[],4.5
+Spring Rolls Non Veg,340,preparation of deep fried fish cubes cooked with chinese sauces and spices and chillies (12-15 pcs),Veg,[],3.7
+Chilli Chicken Dry,480,Tandoori chicken tikka chunks coated with tandoori mayo and served with Fries & Dip (Served with Fries & Dip) 4 Pcs,Veg,[],4.9
+Chicken Manchurian Dry,480,"It’s a double decker sandwich with chicken, egg and mutton in layers. A complete package for all non veg lovers, 4 Pcs served with Fries & Dip (Served with Fries & Dip)",Veg,[],2.6
+Fish Chilli Dry,570,"Mixed veggies coated with coleslow and grilled ,served with Fries & Dip (Served with Fries & Dip) 4 Pcs",Non Veg,[],4.5
+Chicken Tikka Sandwich,290,"Paneer tkka slice coated with mint mayo,served with Fries & Dip (Served with Fries & Dip) 4 Pcs",Non Veg,[],4.8
+Non-Veg. Club Sandwich,285,(Served with Fries & Dip),Non Veg,[],4.9
+Veg. Grilled Sandwich,240,Chineese style chilli chicken topped with tandoori mayo and served with Fries & Dip (Served with Fries & Dip),Non Veg,[],3.7
+Paneer Tikka Sandwich,260,"Tandoori chicken tikka chunks topped with tandoori mayo and spices,served with Fries & Dip (Served with Fries & Dip)",Non Veg,[],3.8
+Chicken Burger,230,Sliced tandoori paneer tikka topped with tandoori mayo served with Fries & Dip (Served with Fries & Dip),Non Veg,[],3.3
+Chilli Chicken Burger,240,A mixed veggies burger patty topped with coleslaw and cheese slice served with Fries & Dip (Served with Fries & Dip),Non Veg,[],4.2
+Chicken Tikka Burger,250,Garlic flavoured bread topped with mozzrila cheese (4 pcs),Non Veg,[],4.4
+Paneer Tikka Burger,225,"Classic cheese and tomato (8"" pizza)",Non Veg,[],4.7
+Veg. Burger With Cheese,190,"Pizza topped with tomato,cheese,capsicum and onion (Size-8"")",Non Veg,[],5.0
+Garlic Bread with cheese,220,"8"" Pizza topped with chineese style chilli paneer",Non Veg,[],4.7
+Classic Cheese & Tomato,330,"8"" Pizza topped with tandoori paneer tikka and green chilli",Veg,[],2.1
+Tomato Cheese Capsicum Onion,345,"8"" Pizza topped with spicy paneer and mozzrilla cheese",Veg,[],5.0
+Paneer Chilli Pizza,385,"8"" Pizza topped with Onion capsicum corn mashroom and mozzrilla cheese.",Non Veg,[],4.2
+Paneer Tikka & Green Chilly,385,"8"" Pizza topped with hot and spicy chicken chunks and mozzrilla cheese",Non Veg,[],5.0
+Paneer Pataka,400,"8"" Pizza topped with chineese style chilli chicken and mozzrilla cheese",Non Veg,[],5.0
+Veggie Surprise,385,"8"" Pizza topped with Capsicum Onion and hot and spicy chicken .",Veg,[],4.1
+Hot N ' Spicy Chicken,425,"8"" Pizza topped with Tandoori chicken tikka green chilli and mozzrilla cheese",Veg,[],2.5
+China Town,425,Red concase sauce - (Served with 2 Pcs. Of Garlic Bread) - Choice of Penne,Veg,[],4.3
+Chicken Supreme,425,Red concase sauce - (Served with 2 Pcs. Of Garlic Bread) - Choice of Penne,Veg,[],4.8
+Chicken Tikka & Red Chilli,435,flacky wrap filled with kidney bean and exotic veggitables,Veg,[],3.5
+Arabbiata Sauce Veg,360,flacky wrap filled with veggitables and spices,Veg,[],4.7
+Arabbiata Sauce Non Veg,375,flacky paratha filled with chineese style paneer chilli,Veg,[],4.0
+Italian Wrap,250,flacky wrap filled with assorted topping of veggies stir fry.,Veg,[],4.8
+Indian Masala Wrap Veg,240,flacky paratha filled with chineese style Paneer chilli,Veg,[],4.7
+Paneer Chilli Roll,240,"flacky paratha filled with assorted topping of veggies stir fry,Paneer and sauce",Non Veg,[],4.5
+Mexican Wrap Veg,230,"flacky paratha filled with assorted topping of veggies stir fry,Paneer tikka and sauce",Non Veg,[],5.0
+Paneer Chilly Wrap,230,"flacky wrap filled with assorted topping of veggies stir fry,Paneer tikka and s auce",Non Veg,[],4.4
+Paneer Frankie,230,flacky paratha filled with assorted topping of veggies stir fry and sauce,Non Veg,[],4.7
+Paneer Tikka Kathi Roll,250,flacky paratha filled with chineese style chicken chilli,Veg,[],4.3
+Paneer Tikka Wrap,220,flacky paratha filled with chineese style chicken chilli,Non Veg,[],3.3
+Veg Frankie,215,"flacky paratha filled with assorted topping of veggies stir fry,Chicken chunks and sauce",Veg,[],4.2
+Chicken Chilli Roll,270,"flacky paratha filled with assorted topping of veggies stir fry,Chicken tikka peices and sauce",Veg,[],3.7
+Chicken Chilly Wrap,255,"flacky wrap filled with assorted topping of veggies stir fry,Chicken tikka peices and sauce",Veg,[],4.1
+Chicken Frankie,250,flacky wrap filled with veggitables and spices and chicken chunks,Veg,[],4.8
+Chicken Tikka Kathi Roll,260,flacky paratha filled with onion and egges,Veg,[],4.5
+Chicken Tikka Wrap,230,"flacky paratha filled with onion,egg masala",Veg,[],4.4
+Indian Masala Wrap Non Veg,260,"flacky wrap filled with assorted topping of veggies stir fry, and Chicken chunks",Veg,[],4.6
+Egg Frankie,215,flacky wrap filled with boiled chicked and spices,Veg,[],4.6
+Egg Masala Grilled Wrap,240,8-10 Pcs Mix Vegitable Pakora (serves 2),Veg,[],4.6
+Mexican Wrap Non Veg,245,(2 pcs With Raita & Achar ),Non Veg,[],4.5
+Spicy Shredded Chicken Wrap,270,2 Pcs Serves -1,Non Veg,[],4.6
+Assorted Pakora Basket,260,(2 pcs With Raita & Achar ),Non Veg,[],3.0
+Aloo Tava Paratha,230,(2 pcs With Raita & Achar ),Non Veg,[],5.0
+Chhola Bhatura,215,8 pcs assorted paneer pakora,Non Veg,[],4.2
+Pyaaz Tava Paratha,230,( Paneer & Veg. with Raita and Achar),Non Veg,[],4.5
+French Fries with dip,220,(Keema &Egg With Raita &Achar) 1 Pcs Serves-1,Non Veg,[],4.2
+Paneer Tava Paratha,250,8 Pcs Fried Fish Finger serves with Tartar Sauce,Non Veg,[],4.3
+Paneer Pakora,250,"Plain Dosa is a thin crepe , a popular South Indian breakfast recipe that is crispy & healthy",Non Veg,[],3.8
+Mumbai Pav Bhaji,220,Masala dosa are crisp rice and lentil crepes stuffed with spiced and savory potato filling,Veg,[],2.5
+Mughlai Paratha,250,"Butter flavour perfectly light, soft, crispy crepes stuffed with a savory, wonderfully spiced potato and onion",Veg,[],4.2
+Mughlai Paratha Non Veg,300,Its crispy Indian savory crepe with a delicious filling made from paneer,Veg,[],4.6
+Fish Finger with Tartar Sauce,575,"Its perfectly light, soft, crispy crepes stuffed with a savory, wonderfully spiced potato and onion",Veg,[],4.9
+Plain Dosa,210,Spring dosa is Indian fermented crepe made with Chinese-style stir-fried vegetable filling,Veg,['Best Seller'],4.5
+Masala Dosa,240,Its crispy Indian savory crepe made with Rava.,Veg,[],4.8
+Butter Masala Dosa,250,Its crispy Indian savory crepe made with Rava and chooped onion and chilla masala filled inside it.,Veg,[],4.3
+Paneer Dosa,270,Its crispy Indian savory crepe made with Rava and potato masala filled inside it.,Veg,[],4.9
+Aryan Special Paper Dosa,260,"Rava dosa is a thin crisp fried crepe made with semolina, rice flour, and filling made from paneer.",Veg,[],3.1
+Special Onion Masala Dosa,300,Soft cooked mushy rice is simply mixed with curd (Indian yogurt) and salt (Served with Sambhar & Chutney),Veg,[],3.8
+Spring Dosa,275,"Rice with a tempering of mustard seeds, chana dal, green chilli and rosted peanut and lemone flavored.(Served with Sambhar & Chutney)",Veg,['Best Seller'],3.2
+Rava Plain Dosa,255,It is a popular uttapam variant where these pancakes are topped with paneer masala.,Veg,[],4.7
+Rava Onion Dosa,260,"Mix- Uttapam is a popular uttapam variant where these pancakes are topped with onions,tomato & chilli.",Non Veg,[],4.8
+Rava Masala Dosa,270,"Popular South Indian breakfast snack of donut shaped lentil fritters that are fluffy, crispy, soft and delicious Served with Sambhar",Non Veg,[],4.6
+Rava Paneer Dosa,290,A round shaped steamed rice-lentil cake served with Sambhar,Veg,[],4.4
+Curd Rice,270,Assorted Vegetables stir fried with rice in chinese sauces and spices - serves 2-3 ( 650 ML),Veg,[],4.9
+Lemon Rice,270,Paneer Cubes & Assorted Vegetables stir fried with rice in chinese sauces and spices - serves 2-3( 650 ML),Veg,['Best Seller'],4.5
+Moong Dal Chilla (Veg. Stuffed),230,"Most flavouful, spicy & hot rice made using schezuan sauce and assorted vegetables - serves 2-3 ( 650 ML)",Veg,[],4.3
+Moong Dal Chilla (Paneer),240,"Asian Chinese-style garlic noodles recipe includes rice cooked with dry red chilies and red chili sauce for a vibrant, lightly spicy dish with assorted vegetables - serves 2-3",Veg,[],4.9
+Uttapam Paneer,290,Egg omelette & Assorted Vegetables stir fried with rice in chinese sauces and spices - serves 2-3 ( 650 ML),Veg,[],4.8
+Uttapam Mix,270,Shredded Chicken & Assorted Vegetables stir fried with rice in chinese sauces and spices - serves 2-3 ( 650 ML),Veg,[],5.0
+Vada Sambhar,225,"Most flavouful, spicy & hot rice made using schezuan sauce and assorted vegetables & shredded chicken - serves 2-3 ( 650 ML)",Veg,[],4.6
+Idli Sambhar,225,"Asian Chinese-style garlic noodles recipe includes rice cooked with dry red chilies and red chili sauce for a vibrant, lightly spicy dish with assorted vegetables & chicken - serves 2-3",Veg,[],4.6
+Fried Rice - Veg,375,Assorted Vegetables stir fried with noodles in chinese sauces and spices - serves 2-3( 650 ML),Veg,[],4.1
+Paneer Fried Rice,385,"Colourful exotic vegitables,spices and soy souce. - serves 2-3 ( 650 ML)",Veg,[],4.4
+Veg Schezuan Rice,395,"Yellow in colour, stir-fried cooked noodles, curry powder, vegetables - serves 2-3 ( 650 ML)",Veg,[],4.6
+Veg Chilli Garlic Rice,390,Paneer Cubes & Assorted Vegetables stir fried with noodles in chinese sauces and spices - serves 2-3( 650 ML),Veg,[],4.7
+Egg Fried Rice,370,"Asian Chinese-style garlic noodles recipe includes noodles / rice cooked with dry red chilies and red chili sauce for a vibrant, lightly spicy dish with assorted vegetables - serves 2-3 ( 650 ML)",Veg,[],5.0
+Fried Rice - Chicken,395,"Most flavouful, spicy & hot noodles made using schezuan sauce and assorted vegetables - serves 2-3 ( 650 ML)",Veg,[],3.9
+Schezuan Rice Non Veg,415,"Crispy Fried Noodles served with vegetables cooked in tangy, sweet, spiced sauce - serves 2-3 ( 650 ML)",Veg,[],4.5
+Chicken Chilli Garlic Rice,410,"Asian Chinese-style garlic noodles recipe includes noodles / rice cooked with dry red chilies and red chili sauce for a vibrant, lightly spicy dish with assorted vegetables & chicken - serves 2-3 ( 650 ML)",Veg,[],5.0
+Veg. Chowmein,375,Shredded Chicken & Assorted Vegetables stir fried with noodles in chinese sauces and spices - serves 2-3( 650 ML),Veg,[],4.8
+Veg Hakka Noodles,400,Egg omelette & Assorted Vegetables stir fried with noodles in chinese sauces and spices - serves 2-3 ( 650 ML),Veg,[],5.0
+Veg Singapore Style Noodles,390,"Colourful exotic vegitables,spices and soy souce and chicken chunks. - serves 2-3 ( 650 ML)",Veg,[],4.9
+Paneer Chowmein,380,"Most flavouful, spicy & hot noodles made using schezuan sauce and assorted vegetables & shredded chicken - serves 2-3 ( 650 ML)",Veg,[],4.5
+Veg Chilly Garlic Noodles,390,"Yellow in colour, stir-fried cooked noodles, curry powder, vegetables and chicken chunks - serves 2-3 ( 650 ML)",Veg,['Best Seller'],4.6
+Veg Schezuan Noodles,400,"Crispy Fried Noodles served with shredded chicken & vegetables cooked in tangy, sweet, spiced sauce - serves 2-3 ( 650 ML)",Veg,[],4.5
+Veg American Chop Suey,425,Gravy preparation of deep fried paneer cubes cooked with chinese sauces and spices and chillies (12-15 pcs) 400 ML,Veg,[],2.4
+Chilly Garlic Noodles Non Veg,410,Gravy preparation of deep fried veg balls cooked in tangy chinese sauces and spices with chopped vegetables (12-15 pcs),Veg,[],4.9
+Chicken Chowmein,395,Gravy preparation of deep fried paneer cubes cooked in tangy chinese sauces and spices with chopped vegetables (12-15 pcs),Non Veg,[],4.3
+Egg Chowmein,375,Lot of fresh vegetables with spicy schezuan sauce - serves 2-3,Non Veg,[],4.8
+Hakka Noodles Non Veg,415,Gravy preparation of deep fried veg balls cooked with chinese sauces and spices and chillies (12-15 pcs),Non Veg,[],4.7
+Schezuan Noodles Non Veg,415,Gravy preparation of deep fried Mushroom chunks cooked with chinese sauces and spices and chillies (12-15 pcs),Non Veg,[],4.8
+Singapore Style Noodles Non Veg,410,Gravy preparation of deep fried Mushroom chunks cooked in tangy chinese sauces and spices with chopped vegetables (12-15 pcs),Veg,[],4.9
+American Chop Suey Non veg,435,Lot of fresh vegetables chopped and cooked in sweet sour sauces and spices - serves 2-3,Veg,[],3.6
+Paneer Chilli Gravy,415,One hot pot packs a lot of fresh vegetables with garlic and red chilli being the primary tastemakers - serves 2-3,Veg,[],5.0
+Veg. Manchurian Gravy,410,Gravy preparation of deep fried Chicken balls cooked in tangy chinese sauces and spices with chopped vegetables (12-15 pcs),Veg,[],4.3
+Paneer Manchurian Gravy,415,Gravy preparation of deep fried Chicken balls cooked with chinese sauces and spices and chillies (12-15 pcs),Veg,[],4.7
+Schezuan Vegetable,400,gravy preparation of deep fried fish cubes cooked with chinese sauces and spices and chillies (12-15 pcs),Veg,[],4.6
+Veg. Chilli Gravy,400,One hot pot packs a lot of fresh vegetables & shredded chicken with garlic and red chilli being the primary tastemakers - serves 2-3,Veg,[],4.8
+Mushroom chilli Gravy,425,Gravy preparation of deep fried mutton balls cooked with chinese sauces and spices and chillies (12-15 pcs),Non Veg,[],4.8
+Mushroom Manchurian Gravy,430,Lot of fresh vegetables & shredded chicken with spicy schezuan sauce - serves 2-3,Non Veg,[],4.2
+Vegetable Sweet & Sour,400,Mild sweet yellow garvy made with butter and topped with mozrilla cheese. 400 ml - serves 2-3,Non Veg,[],4.6
+Vegetable Hot Garlic,400,Mild spicy garlic flavour paneer dish 400 ml - serves 2-3,Non Veg,[],4.7
+Chicken Manchurian Gravy,460,"It’s a spicy warming ,flavourful dish made by cooking paneer and capsicum in a fragrant 400 ml - serves 2-3",Non Veg,[],4.4
+Chilli Chicken Gravy,460,cooked in indian style gravy 400 ml - serves 2-3,Non Veg,[],4.5
+Fish Chilli Gravy,550,cooked in indian style gravy 400 ml - serves 2-3,Non Veg,[],4.4
+Hot Garlic Chicken,440,Paneer cooked with delicious aromatc gravy that has mild sweet and slightly tangy taste 400 ml - serves 2-3,Veg,[],4.3
+Mutton Chilli Gravy,530,Black paper flavoured creamy gravy 400 ml - serves 2-3,Veg,['Best Seller'],5.0
+Schezuan Chicken,440,slightly sweet dish of paneer which gravy made with butter 400 ml - serves 2-3,Veg,[],3.3
+Butter Cheese Masala,435,Paneer cooked in flavourful rich creamy orange gravy 400 ml - serves 2-3,Veg,[],4.7
+Handi Paneer,425,tandoori paneer tikka cooked with spicy warming flavourful gravy 400 ml - serves 2-3,Veg,[],4.5
+Kadhai Paneer,425,Prepared with paneer ground spices and cashew and onion gravy. 400 ml - serves 2-3,Veg,[],4.4
+Matar Paneer,410,Paneer cooked with slightly sweet and rich creamy gravy 400 ml - serves 2-3,Veg,[],4.9
+Palak Paneer,410,400 ml - serves 2-3,Veg,[],4.3
+Paneer Do Pyaza,410,Tangy Paneer cooked in flavourful rich radish gravy 400 ml - serves 2-3,Veg,[],4.0
+Paneer Kali Mirch,425,"Whole black lentils & red kidney beans are slow cooked with spices, butter & cream. 400 ml - serves 2-3",Veg,[],3.1
+Paneer Makhani,425,"Made by using different lentils (dals), with garlic flavoured. 400 ml - serves 2-3",Non Veg,[],4.3
+Paneer Lababdar,435,"Indian lentil recipe that is made with tur dal , onions, tomatoes and spices. 400 ml - serves 2-3",Non Veg,[],4.7
+Paneer Tikka Masala,430,"Dal Bukhara is a rich, flavorful lentil recipe made with black gram, tomatoes,and cream. 400 ml - serves 2-3",Non Veg,[],4.4
+Paneer Peshawari,420,spicy preparation made by cooking chickpeas with an onion tomato masala. 400 ml - serves 2-3,Non Veg,[],4.4
+Shahi Paneer,435,spicy preparation made by cooking chickpeas with an onion tomato masala. 400 ml - serves 2-3,Non Veg,[],4.9
+Tamatar Paneer Ki Bhurji,410,Button mashroom curry made with black paper flavor curry. 400 ml - serves 2-3,Non Veg,[],4.5
+Paneer Taka-Tak,425,Rich thick and creamy Mashroom made with white button mashroom and indian spices. 400 ml - serves 2-3,Veg,[],4.9
+Dal Makhani,330,"Its made with mashroom ,peas ,onion spices and herbs. 400 ml - serves 2-3",Veg,[],5.0
+Dal Handi,315,(Red Curry)Stuffed patotaos made with tomato gravy mild sweet and tangy flavor. 400 ml - serves 2-3,Veg,[],4.7
+Dal Sultani (Arhar Fry),300,Stuffed patotaos made with golden yellow gravy mild spicy flavor. 400 ml - serves 2-3,Veg,['Best Seller'],4.9
+Dal Bukhara,320,"Flavourful north indian dish made with potatos ,spices and herb. 400 ml - serves 2-3",Veg,[],4.3
+Chana Pindi,295,A dry version of potatoes couliflower and green peas curry seasoned with indian spices. 400 ml - serves 2-3,Veg,[],5.0
+Kabuli Chana,295,"A healthy bowl of veggies with rich creamy, loaded with melted cheese layers wrapped around . 400 ml - serves 2-3",Veg,[],4.8
+Kalimirch Mushroom,430,Flavourful patotos cooked with whole spices. 400 ml - serves 2-3,Veg,[],4.1
+Mushroom Masala,430,"Its mildy sweet and spicy combination made with fenugreek leaves ,peas ,corn and cream. 400 ml - serves 2-3",Veg,[],4.6
+Mushroom Matar,430,It’s a indian stir fried mixed vegitables sauteed in high fire with regular spices. 400 ml - serves 2-3,Veg,[],4.7
+Aloo Dum - Hyderabadi,390,It’s a indian stir fried mixed vegitables sauteed with regular spices. 400 ml - serves 2-3,Veg,[],4.9
+Aloo Dum - Banarsi,390,"Mixed vegitables deep fried koftas rainforced with the goodness of green like spinch,coriender and fenugreek. 400 ml - serves 2-3",Veg,[],5.0
+Jeera Aloo,315,Mixed vegitables fried balls cooked in redies yellow grevy and mild spicy dish. 400 ml - serves 2-3,Veg,[],4.3
+Aloo Gobhi Matar,315,Delicious dish of fried balls of patato and paneer in a rich and creamy gravy made with sweet onion and tomato. 400 ml - serves 2-3,Veg,[],4.6
+Baked Veg.,425,Slightly sweet dish of Chicken which gravy made with butter and cream .,Veg,[],4.3
+Khade Masalae ke Aloo,315,"Made with Lemon, yogurt, masalas and green chilli that are infused together to cook",Veg,[],5.0
+Methi Matar Malai Corn,390,"Chicken cooked in chatpata spinach gravy, serves 2",Veg,[],2.3
+Veg. Jalfrezi,375,"It’s a spicy warming ,flavourful dish made by cooking chicken and capsicum in a fragrant.",Veg,[],4.8
+Mixed Vegetable,375,"6 pcs boneless Chicken cooked in chatpati Indian curry, serves 2",Veg,[],4.3
+Kofta Punjabi,400,"Chicken cooked on slow flame, serves 2",Veg,[],2.7
+Kofta Haryali,400,Boneless Chicken pieces cooked in flavourful rich creamy orange gravy .,Veg,[],4.8
+Lazeez Malai Kofta,415,Tandoori Chicken tikka cooked with spicy warming flavourful gravy,Veg,[],4.2
+Butter Chicken,385,Mild spicy garlic flavour chicken dish,Veg,[],5.0
+Mirch Masala Murg,385,"Chicken curry chicken breasts are slowly simmered in a spicy curry sauce with yogurt, tomatoes, onion, garlic, and ginger.",Veg,[],4.8
+Tangri Masala (4 Pcs),720,Black Pepper flavoured creamy gravy .,Veg,[],3.1
+Kadhai Chicken,385,"Chicken pecies made with chicken, spices, herbs, onions and tomatoes.",Veg,[],4.2
+Murg Makhmali (Boneless),410,Chicken cooked with delicious aromatc gravy that has mild sweet and slightly tangy taste.,Veg,[],5.0
+Chicken Chatpata (B/L),720,"Bhuna Gosht is a very popular preparation, wherein mutton is slow-cooked with a variety of spices, vegetables and yoghurt. 4 pcs mutton curry - serves 2-3",Veg,[],3.8
+Bhatti Dum Murg,720,a very traditional rich stew with lots of spicy and a velvety rich masala gravy. 4 pcs mutton curry - serves 2-3,Veg,[],5.0
+Chicken Lababdar (B/L),410,traditionally cooked in a wok . This rich mutton curry recipe is made by slow cooking. 4 pcs mutton curry - serves 2-3,Veg,[],4.7
+Tikka Achari Masala,410,Mutton cooked with whole spices . 4 pcs mutton curry - serves 2-3,Veg,[],4.6
+Handi Murgh,385,Delicious blend of minced meat (mutton) and peas sauteed in a thick mixture of stimulating flavors. 4 pcs mutton curry - serves 2-3,Veg,[],4.5
+Chicken Curry,375,"Bhuna Gosht is a very popular preparation, wherein mutton is slow-cooked with a variety of spices, vegetables and yoghurt. 4 pcs mutton curry - serves 2-3",Veg,[],4.6
+Chicken Kali Mirchi,385,mutton fry made with a lot of onions in it. 4 pcs mutton curry - serves 2-3,Veg,[],4.6
+Chicken Masala,385,combines the mutton pieces along with the mutton keema or Gosht mince in it. 4 pcs mutton curry - serves 2-3,Veg,[],4.6
+Chicken Do Pyaza,385,"(Shahi Andaz Korma) is a traditional gravy dish from the Mughlai cuisine. Cooked in a rich, creamy sauce. Boneless mutton curry - serves 2-3",Veg,[],4.7
+Bhuna Gosht,540,Made with fresh water in mustard oil and boasts of the distinct flavor of mustard and nigella seeds. 6 pcs - serves 2-3,Non Veg,[],4.9
+Handi Gosht,550,4 pcs egg burji - serves 2-3,Non Veg,[],4.5
+Kadhai Mutton,540,3 pc Egg cooked in Indian Curry - serves 2-3,Non Veg,[],4.9
+Khade Masale ka Gosht,550,Crisp Tandoori Roti - cut into 2,Non Veg,[],4.6
+Keema Matar,520,Crisp Tandoori Roti with butter - cut into 2,Non Veg,[],4.7
+Rogan Josh,530,Layered paratha - cut into 2,Non Veg,[],4.9
+Mutton Do Pyaza,540,Butter spread on Naan - cut into 3,Non Veg,[],4.4
+Sikandari Rarra Gosht,550,Plain Naan - cut into 3,Non Veg,[],4.8
+Shahi Andaz Korma (Boneless),550,Layered paratha flavoured with pudina - cut into 2,Non Veg,[],4.4
+Bengal Fish Curry,550,Layered paratha flavoured with ajwain- cut into 2,Non Veg,[],5.0
+Anda Bhurji,300,Steam Cooked Basmati Rice - Serves 2-3,Non Veg,[],5.0
+Egg Curry,335,Basmati Rice cooked with Jeera - Serves 2-3,Non Veg,[],4.8
+Tandoori Roti,45,Basmati Rice cooked with Matar Serves 2-3,Non Veg,[],4.6
+Butter Roti,55,Basmati Rice cooked with Paneer - Serves 2-3,Non Veg,[],4.5
+Lachha Paratha,95,Steam Cooked Basmati Rice tossed with Jeera - Serves 2-3,Non Veg,[],4.4
+Missi Roti (Seasonal),95,Assorted Vegetables cooked in flavourful spices with Basmati Rice with raita and papad - Serves 2-3 (650 ML),Non Veg,[],4.6
+Naan - Butter,110,3 pcs of Chicken cooked in flavourful spices with Basmati Rice with raita - Serves 2-3( 650 ML),Non Veg,[],4.9
+Naan - Plain,100,4 pcs of Mutton cooked in flavourful spices with Basmati Rice with raita and papad - Serves 2-3,Non Veg,[],4.9
+Pudina - Paratha,90,(2pcs Butter Naan + 2pcs Tandoori Roti+2 pcs Lachha Paratha + 2pcs Missi Roti),Non Veg,[],4.2
+Stuff Naan (Aloo Masala),110,2 Pcs,Non Veg,[],5.0
+Garlic Naan,115,"Fresh  Lime Soda are made with lemons, soda, sugar, and mint leaves.300 ML",Non Veg,[],4.6
+Stuffed Kulcha (Aloo),110,"Fresh  Lime Soda are made with lemons, soda, sugar, and mint leaves.300 ML",Non Veg,[],3.6
+Stuffed Kulcha (Onion),110,Lemon Ice Tea.300 ML,Non Veg,[],5.0
+Stuffed Kulcha (Paneer),115,Peach Ice Tea.300 ML,Non Veg,[],3.5
+Ajwain - Paratha,90,"Non-alcoholic drink made from mint leaves, lemon juice and sweetened to taste.300 ML",Non Veg,[],4.6
+Plain Rice,260,"Non-alcoholic drink made from mint leaves, lemon juice and sweetened to taste.300 ML",Non Veg,[],4.3
+Pulao (Jeera),310,"Non-alcoholic drink made from mint leaves, lemon juice and sweetened to taste.300 ML",Veg,[],5.0
+Pulao (Matar),315,"Non-alcoholic drink made from mint leaves, lemon juice and sweetened to taste.300 ML",Veg,[],4.9
+Pulao (Paneer),320,This peach blossom is a refreshing twist with peach and herbs.300 ML,Veg,[],4.3
+Jeera Rice,275,"It's a sweet, lemony drink with added booze that is sure to cool you down.300 ML",Veg,[],4.8
+Veg Dum Biryani,415,"blue Curaçao syrup, lemon juice, and a lemon-lime soda.300 ML",Veg,[],5.0
+Chicken Biryani,440,"Masala lime Soda made with lemons, soda, sugar, spices and herbs.300 ML",Veg,['Best Seller'],4.1
+Mutton Biryani,450,Beverage that has a mixture of Pinnaple juices and coconut water.300 ML,Veg,[],4.5
+Paneer Party Pack (1500ML),1200,"Cold coffee is a frothy, creamy milkshake-style chilled coffee drink.300 ML",Veg,[],4.5
+Dal Party Pack (1500ML),950,"Cold coffee is a frothy, creamy milkshake-style chilled coffee drink with Vanila flavour icecream.300 ML",Veg,[],4.3
+Choice of Rice Party Pack,820,"Combine ice cream, milk, and chocolate sauce.300 ML",Veg,[],4.8
+Bread Basket,600,"Cool and tempting fruit drink prepared by simply blending ripe mango extract, milk and sugar.300 ML",Veg,[],4.8

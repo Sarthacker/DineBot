@@ -1,0 +1,39 @@
+item_name,price,description,dietery,features,rating
+Dal Makhani,395,A rich and flavorful vegetarian delight from northern India bursting with creamy and aromatic flavors.,Veg,[],2.8
+Mix Vegetable,345,"A simple, yet lip-smacking perfectly cooked mix vegetables in indian style with authentic indian spices.",Veg,[],4.8
+Dal Dhaba,325,A delectable main course that brings together the flavors of classic Indian cuisine in a savoury vegetarian dish.,Non Veg,[],2.8
+Pindi Channa Masala,325,"An aromatic and flavorful dish bursting with rich Indian flavors, Pindi Channa Masala is a delightful vegetarian option for the main plate that will leave you craving for more.",Veg,[],3.2
+Diwani Handi,345,Assorted Mix Vegetable In A Roulette Of Spinach & Mint,Veg,[],4.0
+Vegetable Kohlapuri,345,"A tantalizing medley of vibrant and flavorsome vegetables, simmered to perfection in a rich and aromatic Kohlapuri sauce.",Veg,[],4.3
+Palak Lehsuni Paneer,425,"A delightful combination of tender paneer, fresh spinach, and flavorful garlic, Palak Lehsuni Paneer is a mouthwatering vegetarian delight.",Veg,[],4.8
+Paneer Makhani,425,Moti mahal's original cottage cheese cooked in chef's special gravy (aka butter paneer),Veg,[],4.5
+Paneer Lababdar,425,Cottage cheese sauteed with capsicum and onion mixed with moti mahals makhani gravy,Veg,[],4.1
+Malai Kofta,425,Dumpling of cheese cooked in cashew gravy.,Veg,[],3.7
+Methi Malai Paneer,425,Cottage Cheese Kastori Methi Cream Sealed In Earthern Pot,Veg,[],4.4
+Matar Paneer,425,"A delectable and rich dish with tender paneer and vibrant green peas, perfect for a scrumptious vegetarian main course.",Veg,[],2.0
+Paneer Kali Mirch,425,Cotage Cheese Cashew Gravy Fresh Black Papper,Veg,[],4.7
+Exclusive Kadai Paneer,317,Serves 1 | Paneer dish cooked in thick tomato onion gravy with bell peppers.,Veg,[],5.0
+Exclusive Paneer Lababdar,349,Serves 1 | Paneer lababdar is a rich and authentic punjabi curry in which soft and succulent paneer dunked in this creamy tomato and cashew based gravy which makes this paneer curry worth indulging in.,Veg,[],4.5
+Butter Naan,70,"Delight in a delectable and warm Indian bread, generously brushed with rich, creamy butter.",Veg,[],4.1
+Butter Roti,55,Indian flatbread made in a tandoor at a high temperatur served with amul butter,Veg,[],3.7
+Garlic Naan,90,Garlic Naan is a delicious Indian bread which is made using all purpose flour and garlic topped with butter.,Veg,['Best Seller'],4.4
+Missi Roti,75,Missi roti is chickpea flour flatbread,Veg,[],5.0
+Khasta Roti,75,Khasta roti is leavened crisp and flaky flat breads made from whole semolina,Veg,[],3.8
+Rara Murg with Bone (4 pcs),525,A succulent and flavorful chicken dish with tender bone-in pieces that will satisfy your cravings.,Non Veg,['Best Seller'],2.8
+Kadhai Chicken with Bone (4 pcs),495,"A succulent, flavorful chicken dish prepared in a traditional kadhai style.",Non Veg,[],2.8
+Chicken Curry with Bone (4 pcs),475,A tender and flavorful chicken curry dish featuring succulent pieces of bone-in chicken.,Non Veg,[],4.8
+Butter Chicken with Bone (4 pcs),495,"A succulent and flavorful chicken dish, with tender bone-in pieces, that will satisfy your cravings for a hearty and delicious meal.",Non Veg,['Best Seller'],5.0
+Punjabi Kukkad Masala (4 pcs),530,"A flavorsome Punjabi delicacy of succulent, marinated chicken cooked to perfection - a chicken lover's delight!",Non Veg,[],2.8
+Chicken Lababdar Boneless (5 pcs),525,"Tender boneless chicken cooked in a rich and flavorful sauce, an indulgent dish for chicken lovers.",Non Veg,[],3.2
+Murg Methi Malai Boneless (5 pcs),515,"Creamy and succulent, Murg Methi Malai Boneless is a delectable chicken dish that will satisfy your cravings.",Non Veg,['Best Seller'],4.0
+Butter Chicken Boneless (5 pcs),499,"Tender boneless chicken steeped in a rich, creamy butter sauce for a flavorful and indulgent main plate dish.",Non Veg,[],4.3
+Murg Masala with Bone (4 pcs),485,Tender pieces of marinated chicken cooked in a rich and flavorful sauce – a succulent and satisfying main plate option.,Non Veg,['Best Seller'],4.8
+Murg Saagwala with Bone (4 pcs),485,"A succulent chicken dish with bone, cooked in a rich, flavorful spinach curry.",Non Veg,[],3.8
+Chicken Kali Mirch Boneless (5 pcs),495,"Savor the rich flavors of tender boneless chicken seasoned with a delicious blend of black pepper, offering a delectable experience for meat lovers.",Non Veg,[],2.5
+Butter Naan,70,"Delight in a delectable and warm Indian bread, generously brushed with rich, creamy butter.",Veg,[],3.7
+Butter Roti,55,Indian flatbread made in a tandoor at a high temperatur served with amul butter,Veg,[],4.7
+Garlic Naan,90,Garlic Naan is a delicious Indian bread which is made using all purpose flour and garlic topped with butter.,Veg,[],2.6
+Missi Roti,75,Missi roti is chickpea flour flatbread,Veg,[],4.9
+Khasta Roti,75,Khasta roti is leavened crisp and flaky flat breads made from whole semolina,Veg,[],5.0
+Veg Chur Chur Paratha,100,"A delightful and satisfying Indian bread bursting with flavors and texture, perfectly prepared for a delightful dining experience.",Veg,[],2.3
+Pudina Paratha,75,"Pudina/mint paratha is made from healthy ingredients like pudina, whole wheat flour and indian spices",Veg,[],4.6
