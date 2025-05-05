@@ -1,4 +1,4 @@
-# Restaurant Chatbot
+# DineBot
 
 ## Results
 <img src="assets/history.png" alt="rag" width="900" />
