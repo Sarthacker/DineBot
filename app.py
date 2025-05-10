@@ -1,7 +1,7 @@
 import streamlit as st
 from src.utils import handle_scope_check, ask_bot
 
-st.set_page_config(page_title="DineBot🍽️",layout="wide")
+st.set_page_config(page_title="DineBot🍽️")
 
 SYSTEM_INITIAL = """You are a helpful and friendly assistant that answers user queries related to food and restaurants./
                 You are provided with a user query and a context that includes the restaurant name, the dish name,
