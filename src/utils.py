@@ -55,7 +55,7 @@ def ask_bot(messages: list, user_query: str) -> str:
             "role": "system",
             "content": f'''
                 Task:
-                    You are a helpful and friendly zomato assistant that answers user queries related to food and restaurants.
+                    You are a helpful and friendly assistant that answers user queries related to food and restaurants.
                     You are provided with a user query and a context that includes the restaurant name, the dish name,
                     its price, and a description of the dish. Based on this context, provide accurate, concise,
                     and conversational responses to the user's questions.
