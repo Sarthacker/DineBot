@@ -13,10 +13,10 @@
 
 ## Table of Contents
 
-- [Web Scrapping](https://github.com/Sarthacker/restaurant-chatbot?tab=readme-ov-file#web-scraping-process)
-- [Knowledge Base Creation](https://github.com/Sarthacker/restaurant-chatbot?tab=readme-ov-file#knowledge-base-creation)
-- [RAG Workflow](https://github.com/Sarthacker/restaurant-chatbot?tab=readme-ov-file#rag-workflow)
-- [User Interface](https://github.com/Sarthacker/restaurant-chatbot?tab=readme-ov-file#user-interface)
+- [Web Scrapping](https://github.com/Sarthacker/DineBot?tab=readme-ov-file#web-scraping-process)
+- [Knowledge Base Creation](https://github.com/Sarthacker/DineBot?tab=readme-ov-file#knowledge-base-creation)
+- [RAG Workflow](https://github.com/Sarthacker/DineBot?tab=readme-ov-file#rag-workflow)
+- [User Interface](https://github.com/Sarthacker/DineBot?tab=readme-ov-file#user-interface)
 
 
 ## Web Scraping Process
@@ -291,8 +291,8 @@ Before running the chatbot, make sure you have the following installed:
 ### 2. Setup Instructions
 - Clone this repository to your local machine:
 ```
-git clone "https://github.com/Sarthacker/restaurant-chatbot.git"
-cd restaurant-chatbot
+git clone "https://github.com/Sarthacker/DineBot.git"
+cd DineBot
 ```
 - Create and Activate a Virtual Environment (Optional)
 ```
@@ -302,10 +302,6 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 - Install the Required Dependencies
 ```
 pip install -r requirements.txt
-```
-- Alternatively, if a `requirements.txt` file does not exist, install the following dependencies manually:
-```
-pip install streamlit
 ```
 - Run the Streamlit Application
 ```
